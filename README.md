@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# :unicorn: [Venture Unicorns Networks](https://injbaynpz2rgvlwx.vercel.app) 
 
-## Getting Started
+## Analysis of VC-backed unicorns using CB Insights data of 09-21-2024
 
-First, run the development server:
+JavaScript mobile app built with React and deployed on Vercel. The app analyzes the relationships between venture capital firms, and invested companies and serves dual purposes: **for job hunters, it identifies companies with strong product-market fit backed by reputable investors** to target in their job search, while **for startup founders, it highlights which investors support competitors, enabling refined pitch strategies**. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Built with V0, React.
+ 
+#### Goals
+1. Ensure compatibility across devices, especially mobile.
+2. Enhance interactivity and usability by implementing advanced filtering and visualization capabilities.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### User Goals
+**Job Seekers:** Find high-growth companies with strong VC backing using filters such as valuation range, industry, or geography.
+**Startup Founders:** Explore investor relationships and market competition using touch-friendly, dynamic graphs on mobile.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#### Non-Goals
+Adding entirely new datasets or data sources beyond the existing scope.
+Introducing server-side computation or backend-heavy architectures.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+#### User Stories
+1. As a job hunter, I want to use filters like country, industry, and valuation range to identify high-potential companies backed by reputable investors.
+2. As a startup founder, I want to exclude certain competitors or industries to focus on VCs relevant to my pitch.
+3. As a business analyst, I want to visualize complex networks interactively and export filtered data.
 
-## Learn More
+#### Filters
+1. Inclusion Filters:
+- Country
+- Industry
+- Specific Companies
+- Select Investors
 
-To learn more about Next.js, take a look at the following resources:
+2. Exclusion Filters:
+- Exclude Countries
+- Exclude Industries
+- Exclude Companies
+- Exclude Investors
+- Valuation Range (in billions):
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. All
+- 1–5
+- 5–10
+- 10–15
+- 15–20
+- 20+
