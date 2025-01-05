@@ -24,21 +24,20 @@ Introducing server-side computation or backend-heavy architectures.
 - As a business analyst, I want to visualize complex networks interactively and export filtered data.
 
 #### Filters
-1. Inclusion Filters
- 
+**1. Inclusion Filters**
  * Country
  * Industry
  * Specific Companies
  * Select Investors
 
-2. Exclusion Filters:
+**2. Exclusion Filters**
  - Exclude Countries
  - Exclude Industries
  - Exclude Companies
  - Exclude Investors
  - Valuation Range (in billions)
 
-3. All
+**3. All**
  - 1–5
  - 5–10
  - 10–15
