@@ -44,6 +44,6 @@ Introducing server-side computation or backend-heavy architectures.
  - 15–20
  - 20+
 
-#### Figure 1. Insight Partners US Portfolio
+#### Figure 1. Founders Fund US Portfolio
 
-![image](https://github.com/user-attachments/assets/76399617-47d1-44eb-921d-aa81a8557b70)
+![image](https://github.com/user-attachments/assets/e10623ba-8bb7-4cd7-80c4-cfd3a4100b74)
