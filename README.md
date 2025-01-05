@@ -11,8 +11,8 @@ Built with V0, React.
 2. Enhance interactivity and usability by implementing advanced filtering and visualization capabilities.
 
 #### User Goals
-**Job Seekers:** Find high-growth companies with strong VC backing using filters such as valuation range, industry, or geography.
-**Startup Founders:** Explore investor relationships and market competition using touch-friendly, dynamic graphs on mobile.
+1. **Job Seekers:** Find high-growth companies with strong VC backing using filters such as valuation range, industry, or geography.
+2. **Startup Founders:** Explore investor relationships and market competition using touch-friendly, dynamic graphs on mobile.
 
 #### Non-Goals
 Adding entirely new datasets or data sources beyond the existing scope.
