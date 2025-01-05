@@ -19,16 +19,17 @@ Adding entirely new datasets or data sources beyond the existing scope.
 Introducing server-side computation or backend-heavy architectures.
 
 #### User Stories
-1. As a job hunter, I want to use filters like country, industry, and valuation range to identify high-potential companies backed by reputable investors.
-2. As a startup founder, I want to exclude certain competitors or industries to focus on VCs relevant to my pitch.
-3. As a business analyst, I want to visualize complex networks interactively and export filtered data.
+- As a job hunter, I want to use filters like country, industry, and valuation range to identify high-potential companies backed by reputable investors.
+- As a startup founder, I want to exclude certain competitors or industries to focus on VCs relevant to my pitch.
+- As a business analyst, I want to visualize complex networks interactively and export filtered data.
 
 #### Filters
-1. Inclusion Filters:
- - Country
- - Industry
- - Specific Companies
- - Select Investors
+1. Inclusion Filters
+ 
+ * Country
+ * Industry
+ * Specific Companies
+ * Select Investors
 
 2. Exclusion Filters:
  - Exclude Countries
