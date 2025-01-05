@@ -46,4 +46,4 @@ Introducing server-side computation or backend-heavy architectures.
 
 #### Figure 1. Insight Partners US Portfolio
 
-![image](https://github.com/user-attachments/assets/0930c542-3193-4c66-85e1-a7a1ce94d082)
+![image](https://github.com/user-attachments/assets/76399617-47d1-44eb-921d-aa81a8557b70)
