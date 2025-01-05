@@ -25,21 +25,21 @@ Introducing server-side computation or backend-heavy architectures.
 
 #### Filters
 1. Inclusion Filters:
-- Country
-- Industry
-- Specific Companies
-- Select Investors
+ - Country
+ - Industry
+ - Specific Companies
+ - Select Investors
 
 2. Exclusion Filters:
-- Exclude Countries
-- Exclude Industries
-- Exclude Companies
-- Exclude Investors
-- Valuation Range (in billions):
+ - Exclude Countries
+ - Exclude Industries
+ - Exclude Companies
+ - Exclude Investors
+ - Valuation Range (in billions)
 
 3. All
-- 1–5
-- 5–10
-- 10–15
-- 15–20
-- 20+
+ - 1–5
+ - 5–10
+ - 10–15
+ - 15–20
+ - 20+
