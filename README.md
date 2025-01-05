@@ -48,7 +48,7 @@ Introducing server-side computation or backend-heavy architectures.
 
 ![image](https://github.com/user-attachments/assets/e10623ba-8bb7-4cd7-80c4-cfd3a4100b74)
 
-#### Table 1. U.S Enterprise Tech 5-10 Billion
+#### Table 1. U.S Enterprise Tech 5-10 Billion CSV Export
 
 <img width="762" alt="image" src="https://github.com/user-attachments/assets/37bdfe1c-616c-4bbf-8935-7978c36b08d3" />
 
