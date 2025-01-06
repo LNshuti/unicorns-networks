@@ -24,14 +24,14 @@ To solve this rendering issue, I built a new version using **React**, which rend
 **1. Inclusion Filters**
  * Country
  * Industry
- * Specific Companies
- * Select Investors
+ * Companies
+ * Investors
 
 **2. Exclusion Filters**
- - Exclude Countries
- - Exclude Industries
- - Exclude Companies
- - Exclude Investors
+ - Countries
+ - Industries
+ - Companies
+ - Investors
  - Valuation Range (in billions)
      * 1–5
      * 5–10
