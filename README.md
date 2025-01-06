@@ -1,7 +1,5 @@
 # :unicorn: [Venture Unicorns Networks](https://mytpgveyvgm572kv.vercel.app) 
 
-## Analysis of VC-backed unicorns using CB Insights data of 09-21-2024
-
 A **Unicorn** is a company valued by at least 1 Billion USD. I previously built a python [gradio](https://leoncensh-networkx-saas.hf.space) app that visualizes relationships between venture capital firms and invested companies. With this app, I was able to show the dominance of the top 5 Venture capital firms **Y Combinator, Accel, Venrock, and Andreeseen Horowitz** owning companies with an aggregate valuation exceeding **$500 Billion USD!** Although private valuation can be misleading, the dominance by a few investors, and a few firms is undeniable. Companies like **SpaceX, Bytedance(Ticktok) and Databricks** take a significant percentage of the value. 
 
 Some limitations of the Python gradio app were that the app doesn't render well on Mobile, with the network diagrams overlapping too much, which led to a poor user experience. 
