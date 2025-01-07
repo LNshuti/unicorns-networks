@@ -10,29 +10,12 @@ To solve this rendering issue, I built a new version using **React**, which rend
    
 2. **For startup founders, it highlights which investors support competitors, enabling refined pitch strategies**. 
 
- 
-#### Goals
-1. Ensure compatibility across devices, especially mobile.
-2. Enhance interactivity and usability by implementing advanced filtering and visualization capabilities.
-
-
-#### User Stories
-- As a job hunter, I want to use filters **like country, industry, and valuation range** to identify high-potential companies backed by reputable investors.
-- As a startup founder, I want to exclude certain competitors or industries to focus on VCs relevant to my pitch.
-- As a business analyst, I want to visualize complex networks interactively and export filtered data.
-
-**1. Inclusion Filters**
+**Inclusion and Exclusion Filters**
  * Country
  * Industry
  * Companies
  * Investors
-
-**2. Exclusion Filters**
- - Countries
- - Industries
- - Companies
- - Investors
- - Valuation Range (in billions)
+ * Valuation Range (in billions)
      * 1–5
      * 5–10
      * 10–15
