@@ -26,7 +26,10 @@ To solve this rendering issue, I built a new version using **React**, which rend
 
 ![image](https://github.com/user-attachments/assets/e10623ba-8bb7-4cd7-80c4-cfd3a4100b74)
 
-#### Table 1. U.S Enterprise Tech 5-10 Billion CSV Export
+#### Figure 2. U.S Unicorns and the Power Law
 
-<img width="762" alt="image" src="https://github.com/user-attachments/assets/37bdfe1c-616c-4bbf-8935-7978c36b08d3" />
+![image](https://github.com/user-attachments/assets/5f3dc566-0527-4d8d-9d44-574588f54fa1)
+
+
+
 
