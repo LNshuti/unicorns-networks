@@ -27,6 +27,11 @@ To solve this rendering issue, I built a new version using **React**, which rend
 
 ![image](https://github.com/user-attachments/assets/edec8739-979d-4f2c-9068-7a0ddd313d72)
 
+#### Figure 2. Boston 
+
+![image](https://github.com/user-attachments/assets/4afa6ddd-e0e7-4b7d-98bd-72aa02cea315)
+
+
 
 
 
