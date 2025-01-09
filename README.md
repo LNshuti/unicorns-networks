@@ -25,12 +25,7 @@ To solve this rendering issue, I built a new version using **React**, which rend
 
 #### Figure 1. San Francisco Unicorns
 
-![image](https://github.com/user-attachments/assets/89b43731-56e9-4498-bfe1-5752f86008a1)
-
-
-#### Figure 2. U.S Unicorns and the Power Law
-
-![image](https://github.com/user-attachments/assets/5f3dc566-0527-4d8d-9d44-574588f54fa1)
+![image](https://github.com/user-attachments/assets/98cc9d55-e6db-429b-8323-140b6a36697a)
 
 
 
