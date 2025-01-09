@@ -23,9 +23,10 @@ To solve this rendering issue, I built a new version using **React**, which rend
      * 15–20
      * 20+
 
-#### Figure 1. Founders Fund US Portfolio
+#### Figure 1. San Francisco Unicorns
 
-![image](https://github.com/user-attachments/assets/e10623ba-8bb7-4cd7-80c4-cfd3a4100b74)
+![image](https://github.com/user-attachments/assets/89b43731-56e9-4498-bfe1-5752f86008a1)
+
 
 #### Figure 2. U.S Unicorns and the Power Law
 
