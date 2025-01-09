@@ -25,7 +25,7 @@ To solve this rendering issue, I built a new version using **React**, which rend
 
 #### Figure 1. San Francisco Unicorns
 
-![image](https://github.com/user-attachments/assets/98cc9d55-e6db-429b-8323-140b6a36697a)
+![image](https://github.com/user-attachments/assets/c9463e0f-b1cd-4888-ae60-0174a9a26f99)
 
 
 
