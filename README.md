@@ -31,7 +31,7 @@ One key limitation of the Python [gradio](https://leoncensh-networkx-saas.hf.spa
 ----------------------------
 #### Figure 1. San Francisco Unicorns
 
-![image](https://github.com/user-attachments/assets/edec8739-979d-4f2c-9068-7a0ddd313d72)
+![image](https://github.com/user-attachments/assets/21526cce-37e8-4e2f-8434-4cffd1835961)
 
 -------------------------------------
 
