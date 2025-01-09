@@ -10,13 +10,15 @@ The key takeaway from this data visualization exercise is that **few firms domin
 
 Some limitations of the Python [gradio](https://leoncensh-networkx-saas.hf.space) app were that the app doesn't render well on Mobile, with the network diagrams overlapping too much, which led to a poor user experience. 
 
-To solve this rendering issue, I built a new version using **React**, which renders much better on mobile. This app serves dual purposes:
+To solve this rendering issue, I built a new [version](jsuwyvjtb69oziys.vercel.app) using **React**, which renders much better on mobile. This app serves dual purposes:
 
 1. **For job hunters, it identifies companies with strong product-market fit backed by reputable investors** to target in their job search
    
 2. **For startup founders, it highlights which investors support competitors, enabling refined pitch strategies**. 
 
-**Inclusion and Exclusion Filters**
+----------------------------
+
+**Filters**
  * Country
  * Industry
  * Companies
@@ -28,6 +30,7 @@ To solve this rendering issue, I built a new version using **React**, which rend
      * 15–20
      * 20+
 
+----------------------------
 #### Figure 1. San Francisco Unicorns
 
 ![image](https://github.com/user-attachments/assets/edec8739-979d-4f2c-9068-7a0ddd313d72)
