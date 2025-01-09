@@ -33,6 +33,14 @@ To solve this rendering issue, I built a new version using **React**, which rend
 
 ![image](https://github.com/user-attachments/assets/4afa6ddd-e0e7-4b7d-98bd-72aa02cea315)
 
+-------------------------------------
+
+#### Figure 3. New York
+
+![image](https://github.com/user-attachments/assets/121f212e-4e79-4e15-9ffb-816a3efb7878)
+
+
+
 
 
 
