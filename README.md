@@ -8,9 +8,7 @@ The key takeaway from this data visualization exercise is that **few firms domin
 
 ----------------------------
 
-Some limitations of the Python [gradio](https://leoncensh-networkx-saas.hf.space) app were that it doesn't render well on Mobile, with the network diagrams overlapping too much, which led to a poor user experience. 
-
-To solve this rendering issue, I built a new [version](jsuwyvjtb69oziys.vercel.app) using **React**, which renders much better on mobile. This app serves dual purposes:
+One key limitation of the Python [gradio](https://leoncensh-networkx-saas.hf.space) app is that it doesn't render well on Mobile, with the network diagrams overlapping too much. To solve this, I built a new [version](jsuwyvjtb69oziys.vercel.app) using **React**, which renders much better on mobile. This app serves two purposes:
 
 1. **For job hunters, it identifies companies with strong product-market fit backed by reputable investors** to target in their job search
    
