@@ -35,11 +35,6 @@ One key limitation of the Python [gradio](https://leoncensh-networkx-saas.hf.spa
 
 -------------------------------------
 
-#### Figure 2. Boston 
-
-![image](https://github.com/user-attachments/assets/34988d62-f32c-48df-8902-c548896fcc68)
-
--------------------------------------
 
 #### Figure 3. New York
 
