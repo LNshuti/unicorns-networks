@@ -29,16 +29,10 @@ One key limitation of the Python [gradio](https://leoncensh-networkx-saas.hf.spa
      * 20+
 
 ----------------------------
-#### Figure 1. San Francisco Unicorns
+#### Figure 1. San Francisco Enterprise SAAS 
 
-![image](https://github.com/user-attachments/assets/21526cce-37e8-4e2f-8434-4cffd1835961)
+![image](https://github.com/user-attachments/assets/bff64f76-dd9e-48f1-b0b4-a9d9f3929c5a)
 
--------------------------------------
-
-
-#### Figure 3. New York
-
-![image](https://github.com/user-attachments/assets/7fd27018-97d6-4769-a1d5-096b88ccdb82)
 
 
 
