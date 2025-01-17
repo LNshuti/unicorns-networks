@@ -31,7 +31,7 @@ One key limitation of the Python [gradio](https://leoncensh-networkx-saas.hf.spa
 ----------------------------
 #### Figure 1. San Francisco Enterprise SAAS 
 
-![image](https://github.com/user-attachments/assets/c1a2da5e-9021-4d59-a3a7-4691ffea5b7b)
+![image](https://github.com/user-attachments/assets/a8045d65-23ba-4eaa-bee7-a70aa4962ca5)
 
 
 
