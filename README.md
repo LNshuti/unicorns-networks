@@ -33,9 +33,25 @@ One key limitation of the Python [gradio](https://leoncensh-networkx-saas.hf.spa
 
 ![image](https://github.com/user-attachments/assets/a8045d65-23ba-4eaa-bee7-a70aa4962ca5)
 
-#### Table 1. Unicorns based in Mountain View, CA
+#### Table 1. Unicorns based in Mountain View, CA -- 09-02-2024
 
-
+| Name         | Valuation | Date |Industry | Investors |
+|--------------|-----------|------|----------|-----------|
+| Nuro         |    8.6       | 2/11/19 | Industrials | SoftBank Group;Greylock Partners;Gaorong Capital |
+| Workato      |    5.7       | 1/12/21 | Enterprise Tech | Battery Ventures;Storm Ventures;Redpoint Ventures |
+| Groq         |    2.5       | 4/14/21 | Enterprise Tech | TDK Ventures;Social Capital;D1 Capital Partners |
+| BloomReach   |    2.2       | 2/23/22 | Consumer & Retail | Bain Capital Ventures;Sixth Street Growth;Lightspeed Venture Partners |
+| Addepar      |    2.17       | 6/15/21 | Financial Services | 8VC;D1 Capital Partners;Sway Ventures |
+| Moveworks    |    2.1       | 6/30/21 | Enterprise Tech | Lightspeed Venture Partners;Sapphire Ventures;Kleiner Perkins Caufield & Byers |
+| Redis        |    2      | 8/25/20 | Enterprise Tech | Viola Ventures;Dell Technologies Capital;Bain Capital Ventures |
+| H2O.ai       |     1.7      | 11/7/21 | Enterprise Tech | Nexus Venture Partners;Transamerica Ventures;Crane Venture Partners |
+| Coda         |     1.4      | 7/8/21  | Enterprise Tech | Greylock Partners;General Catalyst;Khosla Ventures |
+| InDrive      |     1.23      | 2/1/21  | Industrials | Leta Capital;Insight Partners;General Catalyst |
+| Lightmatter  |     1.2      | 12/19/23 | Enterprise Tech | Google Ventures;Spark Capital;Matrix Partners |
+| BigPanda     |     1.2      | 1/12/22 | Enterprise Tech | Advent International;Battery Ventures;Sequoia Capital Israel |
+| At-Bay       |     1.12      | 7/27/21 | Insurance | Lightspeed Venture Partners;Khosla Ventures;Munich Re Ventures |
+| TangoMe      |     1.1      | 3/20/14 | Media & Entertainment | Draper Fisher Jurtson;Qualcomm Ventures;Alibaba Group |
+| News Break   |    1       | 1/7/21  | Media & Entertainment | IDG Capital;Francisco Partners;ZhenFund|
 
 
 
